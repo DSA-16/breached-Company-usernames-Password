@@ -11,3 +11,5 @@ If you don't store the password list (BreachCompilation) in /opt/breach-parse, s
 breach-parse @gmail.com gmail.txt "~/Downloads/BreachCompilation/data"
 
 Run breach-parse for instructions
+
+-By Heath addams
